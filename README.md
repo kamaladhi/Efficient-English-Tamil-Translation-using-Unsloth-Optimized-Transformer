@@ -1,4 +1,4 @@
-# Tamil-English Translation Model (Unsloth)
+# English-Tamil Translation Model (Unsloth)
 ## Lightweight Fine-Tuning of Llama 3.1 Using Unsloth + LoRA (4-bit)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
