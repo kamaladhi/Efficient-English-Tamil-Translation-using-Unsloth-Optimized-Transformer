@@ -16,6 +16,9 @@ build/
 *.bin
 *.h5
 *.ckpt
+*.safetensors
+*.zip
+*.txt
 
 # Environment
 .env
